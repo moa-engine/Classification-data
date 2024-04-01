@@ -1,0 +1,552 @@
+__label__software PicCollage
+__label__software Apple Music
+__label__software Allrecipes
+__label__software iTerm2
+__label__software WinZip Driver Updater
+__label__software Google Translate
+__label__software RawTherapee
+__label__software TikTok
+__label__software Screenpresso
+__label__software Trello
+__label__software MusicBee
+__label__software Clementine
+__label__software Gmail
+__label__software Bixby
+__label__software Home Workout
+__label__software Open Camera
+__label__software Strava
+__label__software Simplenote
+__label__software Vanilla
+__label__software Windows Media Player
+__label__software Tumblr
+__label__software Turtl
+__label__software Expedia
+__label__software Notepad++
+__label__software Piktures
+__label__software KeePass
+__label__software Microsoft SwiftKey
+__label__software Yahoo Mail
+__label__software LibreCAD
+__label__software uTorrent
+__label__software Spark
+__label__software LibreOffice
+__label__software Total Commander
+__label__software MobaXterm
+__label__software iStat Menus
+__label__software SayHi Translate
+__label__software Outlook
+__label__software VirtualDub
+__label__software MAPS.ME
+__label__software Netflix
+__label__software Habitica
+__label__software Ardour
+__label__software Evernote
+__label__software IrfanView
+__label__software PDF Expert
+__label__software NordVPN
+__label__software Libby
+__label__software Microsoft To Do
+__label__software OverDrive
+__label__software TypeApp
+__label__software Nero Burning ROM
+__label__software Calm
+__label__software Clear Scanner
+__label__software Reddit
+__label__software PowerDirector
+__label__software Sweet Selfie
+__label__software Spotlight
+__label__software Texmaker
+__label__software Sketch
+__label__software Chrome
+__label__software 7-Zip
+__label__software Yahoo Weather
+__label__software Audible
+__label__software MyFitnessPal
+__label__software Nike Training Club
+__label__software GoodSync
+__label__software Ashampoo Burning Studio
+__label__software WinZip Universal
+__label__software Careem
+__label__software Launchy
+__label__software Snagit
+__label__software Rosetta Stone
+__label__software VLC for Android
+__label__software Forklift
+__label__software XnView
+__label__software Malwarebytes
+__label__software Adobe Spark Post
+__label__software Google Backup and Sync
+__label__software Cymera
+__label__software Kdenlive
+__label__software OneDrive
+__label__software OfficeSuite
+__label__software Twitter
+__label__software Nova Launcher
+__label__software LyX
+__label__software PyCharm
+__label__software BeFunky
+__label__software Audacious
+__label__software Okular
+__label__software GarageBand
+__label__software Rainmeter
+__label__software Atom
+__label__software Google Assistant
+__label__software VLC Media Player
+__label__software VivaVideo
+__label__software DaisyDisk
+__label__software Dropbox
+__label__software AVG Antivirus
+__label__software WinZip
+__label__software Alfred
+__label__software Kitchen Stories
+__label__software Microsoft Teams
+__label__software HabitBull
+__label__software InShot
+__label__software DSLR Camera
+__label__software LaunchBar
+__label__software IntelliJ IDEA
+__label__software CCleaner
+__label__software TeamViewer
+__label__software Allway Sync
+__label__software Google Fit
+__label__software Shotcut
+__label__software Wattpad
+__label__software Hydrogen
+__label__software Tor Browser
+__label__software Winamp
+__label__software AccuWeather
+__label__software Files by Google
+__label__software HyperDock
+__label__software SyncBack
+__label__software Evince
+__label__software MenuMeters
+__label__software Loop Habit Tracker
+__label__software AIMP
+__label__software Weather Underground
+__label__software Bartender
+__label__software GnuCash
+__label__software AnyDesk
+__label__software Runtastic
+__label__software Gemini
+__label__software Fast Scanner
+__label__software OpenTable
+__label__software HomeBank
+__label__software WhatsApp
+__label__software Greenshot
+__label__software Google Calendar
+__label__software Camera360
+__label__software LibreOffice Writer
+__label__software Carbon Copy Cloner
+__label__software Geany
+__label__software CDBurnerXP
+__label__software Microsoft Cortana
+__label__software OnyX
+__label__software ExpressVPN
+__label__software OpenShot
+__label__software Bear
+__label__software Pixelmator Pro
+__label__software Lifesum
+__label__software Disk Drill
+__label__software YouCam Perfect
+__label__software Podcast Addict
+__label__software Zoho Notebook
+__label__software Flipboard
+__label__software VLC for Mobile
+__label__software MindManager
+__label__software OneNote
+__label__software BurnAware
+__label__software Google Drive
+__label__software Samsung Health
+__label__software Coda
+__label__software Google Sheets
+__label__software Blue Mail
+__label__software Affinity Publisher
+__label__software Box
+__label__software Discord
+__label__software Medium
+__label__software Opera
+__label__software PDF Studio
+__label__software KiCAD
+__label__software Collage Maker
+__label__software Dashlane
+__label__software Snapseed
+__label__software LastPass
+__label__software Business Calendar
+__label__software Quik
+__label__software SugarSync
+__label__software Google Tasks
+__label__software Monday.com
+__label__software Adobe Premiere Pro
+__label__software JEFIT
+__label__software Amazon Alexa
+__label__software B612
+__label__software LibreOffice Viewer
+__label__software TurboScan
+__label__software MapMyRun
+__label__software Nitro Pro
+__label__software Microsoft Translator
+__label__software Kayak
+__label__software VS Code (Visual Studio Code)
+__label__software Any.do
+__label__software CorelDRAW
+__label__software IINA
+__label__software Microsoft PowerPoint
+__label__software Microsoft Defender
+__label__software Adobe Scan
+__label__software Yelp
+__label__software Candy Camera
+__label__software FL Studio
+__label__software SuperDuper
+__label__software Microsoft Edge
+__label__software Memrise
+__label__software QuickPic
+__label__software Quora
+__label__software Fences
+__label__software Darktable
+__label__software WinZip Self-Extractor
+__label__software Recuva
+__label__software Homebrew Cask
+__label__software WhatsApp Desktop
+__label__software Tasker
+__label__software qBittorrent
+__label__software Terminal
+__label__software Windows Movie Maker
+__label__software Google Docs, Sheets, Slides
+__label__software Emacs
+__label__software Sticky Notes
+__label__software Slack
+__label__software Microsoft OneDrive
+__label__software Adobe Acrobat Pro
+__label__software GNU Octave
+__label__software Today Weather
+__label__software Amazon Shopping
+__label__software Gboard
+__label__software Wise Care 365
+__label__software Microsoft Office (Word, Excel, PowerPoint, Outlook)
+__label__software Advanced SystemCare
+__label__software GParted
+__label__software NetBeans
+__label__software BBEdit
+__label__software Productive
+__label__software Waze
+__label__software Unity
+__label__software StrongLifts 5x5
+__label__software Photomath
+__label__software DVD Flick
+__label__software Shotwell
+__label__software Scrivener
+__label__software Oh My Zsh
+__label__software HERE WeGo
+__label__software Google Photos
+__label__software Adobe Fill & Sign
+__label__software Zoom
+__label__software Camera MX
+__label__software Headspace
+__label__software Moon+ Reader
+__label__software EaseUS Data Recovery Wizard
+__label__software Daily Yoga
+__label__software Visual Studio
+__label__software Babbel
+__label__software FRAPS
+__label__software VMware Fusion
+__label__software iTunes
+__label__software IFTTT
+__label__software Polaris Office
+__label__software Spotify
+__label__software Google Earth
+__label__software MEGA
+__label__software Bandicam
+__label__software FreeFileSync
+__label__software Amarok
+__label__software Smart Scan
+__label__software Google Podcasts
+__label__software Pocket
+__label__software Backblaze
+__label__software Citymapper
+__label__software VMware Workstation
+__label__software Zapier
+__label__software Google News
+__label__software 1Password
+__label__software Stitcher
+__label__software ActionDirector
+__label__software Freemake Video Converter
+__label__software Standard Notes
+__label__software Quicksilver
+__label__software Light Table
+__label__software Gnumeric
+__label__software Blender
+__label__software Brave
+__label__software Brackets
+__label__software Nine
+__label__software Clipboard Manager
+__label__software Skim
+__label__software Ableton Live
+__label__software Bitdefender
+__label__software DigiCal
+__label__software Google Slides
+__label__software MyScript Calculator
+__label__software Vim
+__label__software AbiWord
+__label__software RStudio
+__label__software PicsArt
+__label__software Snapchat
+__label__software Arduino IDE
+__label__software Bitmoji
+__label__software Magnet
+__label__software Snipping Tool
+__label__software WinZip Registry Optimizer
+__label__software Scanner App
+__label__software MPC-HC
+__label__software Transmit
+__label__software GIMP
+__label__software Messenger
+__label__software TightVNC
+__label__software Grammarly Keyboard
+__label__software Simple Habit
+__label__software Foxit PhantomPDF
+__label__software Fooducate
+__label__software Final Cut Pro
+__label__software SolCalendar
+__label__software WinRAR
+__label__software XMind
+__label__software Origin (EA)
+__label__software Zotero
+__label__software DVDStyler
+__label__software Hyper
+__label__software CamScanner
+__label__software Aqua Mail
+__label__software Google Keep
+__label__software DaVinci Resolve
+__label__software Adobe InDesign
+__label__software Tiny Scanner
+__label__software TortoiseSVN
+__label__software Affinity Photo
+__label__software Ulysses
+__label__software pCloud
+__label__software Acronis True Image
+__label__software Time Machine
+__label__software Desmos Graphing Calculator
+__label__software Amethyst
+__label__software Tripadvisor
+__label__software Gedit
+__label__software Atril
+__label__software Google Chrome
+__label__software Git
+__label__software Bluefish
+__label__software Telegram
+__label__software HappyCow
+__label__software CleanMyMac
+__label__software Weather & Radar
+__label__software Microsoft Outlook
+__label__software Dark Sky
+__label__software HandBrake
+__label__software Filmic Pro
+__label__software WinX DVD Author
+__label__software WinZip Express
+__label__software Scribus
+__label__software LightShot
+__label__software Thunderbird
+__label__software OBS Studio
+__label__software Keep Notes
+__label__software Reaper
+__label__software FileZilla
+__label__software The Weather Channel
+__label__software Daemon Tools
+__label__software Spyder
+__label__software Asana
+__label__software LaTeXila
+__label__software Autodesk AutoCAD
+__label__software Wireshark
+__label__software Resilio Sync
+__label__software Bandizip
+__label__software iCloud Drive
+__label__software WPS Office
+__label__software Rhythmbox
+__label__software ProCam X
+__label__software Pitivi
+__label__software XSplit
+__label__software Genius Scan
+__label__software Mozilla Firefox
+__label__software Facebook
+__label__software Pinterest
+__label__software YAZIO
+__label__software Docker Desktop
+__label__software Google Maps
+__label__software GNOME Videos (Totem)
+__label__software Adobe Photoshop
+__label__software Todoist
+__label__software Photo Grid
+__label__software Foobar2000
+__label__software Endomondo
+__label__software Footej Camera
+__label__software Any Video Converter
+__label__software Inkscape
+__label__software Fleksy Keyboard
+__label__software GUVCView
+__label__software Gym Workout Planner
+__label__software WinZip System Utilities Suite
+__label__software Microsoft Visio
+__label__software Zombies, Run!
+__label__software Shazam
+__label__software Paint.NET
+__label__software Airbnb
+__label__software Banshee
+__label__software Avast Antivirus
+__label__software Adobe Photoshop Express
+__label__software Zedge
+__label__software Fish
+__label__software Microsoft Word
+__label__software Cyberduck
+__label__software Digikam
+__label__software Wine
+__label__software Yummly
+__label__software Microsoft Office Lens
+__label__software Steam
+__label__software Pocket Casts
+__label__software Microsoft Excel
+__label__software Solid Explorer
+__label__software Microsoft Sticky Notes
+__label__software MX Player
+__label__software Macrium Reflect
+__label__software WinSCP
+__label__software FreeCAD
+__label__software FastStone Image Viewer
+__label__software Microsoft OneNote
+__label__software Microsoft Remote Desktop
+__label__software YouTube Music
+__label__software Uber
+__label__software Manual Camera
+__label__software Mixxx
+__label__software FX File Explorer
+__label__software Code::Blocks
+__label__software Visual Studio Code
+__label__software Dropbox Paper
+__label__software TimeTree
+__label__software Kazam
+__label__software Nextcloud
+__label__software Adobe Illustrator
+__label__software PDF Viewer
+__label__software Lyft
+__label__software WinZip Mac
+__label__software Sworkit
+__label__software SoundCloud
+__label__software HD Camera
+__label__software PowerISO
+__label__software Byword
+__label__software Typora
+__label__software WinZip Command Line
+__label__software Cheese
+__label__software Zomato
+__label__software DesignLab
+__label__software Audacity
+__label__software Feedly
+__label__software YouTube
+__label__software Joplin
+__label__software Google Docs
+__label__software Wrike
+__label__software Newton Mail
+__label__software Canva
+__label__software Booking.com
+__label__software Adobe Acrobat Reader
+__label__software MuseScore
+__label__software Homebrew
+__label__software Wolfram Alpha
+__label__software Truecaller
+__label__software Pocket Yoga
+__label__software Lose It!
+__label__software Night Vision Camera
+__label__software WinZip Courier
+__label__software SwiftKey Keyboard
+__label__software RocketDock
+__label__software Wunderlist
+__label__software Calibre
+__label__software Moment Pro Camera
+__label__software BitTorrent Sync
+__label__software Retrica
+__label__software PotPlayer
+__label__software Samsung Calendar
+__label__software Insight Timer
+__label__software CyberGhost VPN
+__label__software PeaZip
+__label__software Lucidchart
+__label__software LinkedIn
+__label__software Coursera
+__label__software Glary Utilities
+__label__software Parallels Desktop
+__label__software 7 Minute Workout
+__label__software Skyscanner
+__label__software Grab
+__label__software PhotoDirector
+__label__software Dia
+__label__software Adobe Lightroom Classic
+__label__software Amazon Kindle
+__label__software BetterTouchTool
+__label__software Format Factory
+__label__software Affinity Designer
+__label__software TickTick
+__label__software Foodie
+__label__software Duolingo
+__label__software Fitbit
+__label__software Camera FV-5
+__label__software Adobe Lightroom
+__label__software Khan Academy
+__label__software TED
+__label__software KineMaster
+__label__software Cronometer
+__label__software DeVeDe
+__label__software Notion
+__label__software MyPlate Calorie Tracker
+__label__software Today Calendar
+__label__software Clonezilla
+__label__software MiniTool Partition Wizard
+__label__software Tasty
+__label__software Sublime Text
+__label__software Ditto
+__label__software MacroDroid
+__label__software LMMS
+__label__software Instagram
+__label__software Foxit Reader
+__label__software Carrot Weather
+__label__software Zsh
+__label__software aCalendar
+__label__software Safari
+__label__software Skype
+__label__software PuTTY
+__label__software QuickTime Player
+__label__software Runkeeper
+__label__software 1Weather
+__label__software RoboForm
+__label__software GitHub Desktop
+__label__software Scilab
+__label__software VirtualBox
+__label__software MacClean
+__label__software Epic Games Launcher
+__label__software Firefox
+__label__software Camtasia
+__label__software TextMate
+__label__software AppCleaner
+__label__software OpenSCAD
+__label__software Viber
+__label__software TuneIn Radio
+__label__software SimpleScreenRecorder
+__label__software WinSnap
+__label__software ES File Explorer
+__label__software Magisto
+__label__software FilmoraGo
+__label__software Alcohol 120%
+__label__software FatSecret
+__label__software Automate
+__label__software Udemy
+__label__software Sumatra PDF
+__label__software ShareX
+__label__software VSCO
+__label__software ImgBurn
+__label__software KMyMoney
+__label__software BeautyPlus
+__label__software Logic Pro
+__label__software Kile
+__label__software CamStudio
+__label__software Mendeley
+__label__software MacPorts
+__label__software SyncToy
+__label__software Eclipse

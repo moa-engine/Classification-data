@@ -1,0 +1,598 @@
+__label__sport کیلیان امباپه
+__label__sport کریم بنزما
+__label__sport کوین دی‌برونیه
+__label__sport لیونل مسی
+__label__sport رابرت لواندوفسکی
+__label__sport نیمار
+__label__sport لوکا مودریچ
+__label__sport وینیسیوس جونیور
+__label__sport تیبو کورتوا
+__label__sport سادیو مانه
+__label__sport هری کین
+__label__sport ویرجیل فان‌دایک
+__label__sport سون هئونگ مین
+__label__sport فده والورده
+__label__sport یوشوا کیمیش
+__label__sport برناردو سیلوا
+__label__sport ژوائو کانسلو
+__label__sport فیل فودن
+__label__sport پدری
+__label__sport کریستیانو رونالدو
+__label__sport آلیسون بکر
+__label__sport جود بلینگهام
+__label__sport روبن دیاز
+__label__sport مانوئل نویر
+__label__sport کاسمیرو
+__label__sport آلفونسو دیویس
+__label__sport برونو فرناندز
+__label__sport رافائل لیائو
+__label__sport مارکینیوش
+__label__sport آنتونی رودیگر
+__label__sport توماس مولر
+__label__sport فرانکی دی‌یونگ
+__label__sport ایلکای گوندوغان
+__label__sport لائوتارو مارتینز
+__label__sport ترنت الکساندر
+__label__sport اشرف حکیمی
+__label__sport آنتوان گریزمان
+__label__sport عثمان دمبله
+__label__sport گابریل ژسوس
+__label__sport دوشان ولاهوویچ
+__label__sport جمال موسیالا
+__label__sport رودری
+__label__sport روملو لوکاکو
+__label__sport اورلین شوامنی
+__label__sport گابی
+__label__sport کریستین اریکسن
+__label__sport ادرسون
+__label__sport بوکایو ساکا
+__label__sport کالیدو کولیبالی
+__label__sport آندره اونانا
+__label__sport مایکل جردن
+__label__sport تایگر وودز
+__label__sport آرنولد پالمر
+__label__sport جک نیکلاس
+__label__sport مایکل شوماخر
+__label__sport فیل میکلسون
+__label__sport کوبی برایانت
+__label__sport دیوید بکهام
+__label__sport فلوید می‌ودر
+__label__sport شکیل اونیل
+__label__sport فلوید میوئیدر
+__label__sport لیونل مسی
+__label__sport کریستیانو رونالدو
+__label__sport کنور مک گرگور
+__label__sport نیمار
+__label__sport لبران جیمز
+__label__sport راجر فدرر
+__label__sport استفن کری
+__label__sport مت رایان
+__label__sport متی استفورد
+__label__sport کریستیانو رونالدو
+__label__sport لبران جیمز
+__label__sport لیونل مسی
+__label__sport راجر فدرر
+__label__sport کوین دورانت
+__label__sport اندرو شانس
+__label__sport روری مکیلروی
+__label__sport استفن کری
+__label__sport جیمز هاردن
+__label__sport لوئیس همیلتون
+__label__sport لبران جیمز
+__label__sport راجر فدرر
+__label__sport کوین دورانت
+__label__sport جوکوویچ نواک
+__label__sport کام نیوتون
+__label__sport فیل مکیلسون
+__label__sport اردن اسپیته
+__label__sport کوبه بریانت
+__label__sport فلوید میوئیدر
+__label__sport مانی پاکویو
+__label__sport راجر فدرر
+__label__sport جیمز له برون
+__label__sport کوین دورانت
+__label__sport فیل مکیلسون
+__label__sport تایگر وودز
+__label__sport کوبه بریانت
+__label__sport فلوید میوئیدر جونیور
+__label__sport لبران جیمز
+__label__sport کوبه بریانت
+__label__sport تبر وودزگلف
+__label__sport راجر فدرر
+__label__sport فیل مکیلسون
+__label__sport رافائل نادال
+__label__sport مت رایانفوتبال آمریکایی
+__label__sport تایگر وودز
+__label__sport راجر فدرر
+__label__sport کوبه بریانت
+__label__sport جیمز له برون
+__label__sport درو بریز
+__label__sport آرون راجرز
+__label__sport فیل مکیلسون
+__label__sport دیوید بکهام
+__label__sport فلوید میوئیدر جونیور
+__label__sport مانی پاکویو
+__label__sport تایگر وودز
+__label__sport جیمز له برون
+__label__sport راجر فدرر
+__label__sport کوبه بریانت
+__label__sport فیل مکیلسون
+__label__sport دیوید بکهام
+__label__sport کریستیانو رونالدو
+__label__sport پیتون مانینگ
+__label__sport یاده‌روی
+__label__sport طناب‌زنی
+__label__sport ورزش ناشنوایان
+__label__sport رقص ورزشی
+__label__sport صعود ورزشی
+__label__sport یوگا
+__label__sport اسپینینگ
+__label__sport پاراگلایدر
+__label__sport وینگسوت
+__label__sport بیس جامپ
+__label__sport رعد
+__label__sport تریکینگ
+__label__sport فری رانینگ
+__label__sport ایساتیس (شافل)
+__label__sport پاداکو
+__label__sport دوچرخه‌سواری
+__label__sport بی‌ام‌اکس
+__label__sport بندبازی
+__label__sport ژیمناستیک
+__label__sport ژیمناستیک هنری
+__label__sport ژیمناستیک ریتمیک
+__label__sport ترامپولین
+__label__sport تخته فنری
+__label__sport قطب نوردی
+__label__sport کویر نوردی
+__label__sport پلایومتریک
+__label__sport زومبا
+__label__sport پنج‌گانه مدرن
+__label__sport ورزش سه‌گانه
+__label__sport دو و میدانی
+__label__sport دو سرعت
+__label__sport دو استقامت
+__label__sport پرش با نیزه
+__label__sport پرش سه‌گام
+__label__sport پرش طول
+__label__sport دو صحرانوردی
+__label__sport دو  متر
+__label__sport دو  متر
+__label__sport ورزش‌های نمایشی
+__label__sport اسکیت‌بردینگ
+__label__sport اسکیت‌برد
+__label__sport اسکیت روی یخ
+__label__sport اسکیت نمایشی
+__label__sport اسکیت اینلاین اگرسیو
+__label__sport اسکیت سرعت این‌لاین
+__label__sport اسکیت سرعت
+__label__sport اسکیت نمایشی
+__label__sport پارکور
+__label__sport اسکی نمایشی
+__label__sport هوگام
+__label__sport پانتومیم
+__label__sport چوگان نمایشی
+__label__sport ژیمناستیک
+__label__sport ژیمناستیک هنری
+__label__sport ژیمناستیک ریتمیک
+__label__sport ژیمناستیک آکروباتیک
+__label__sport ژیمناستیک آیروبیک
+__label__sport ترامپولین
+__label__sport کشتی کج
+__label__sport فیری استایل فوتبال
+__label__sport ورزش‌های رزمی
+__label__sport کمان دو
+__label__sport کیودو
+__label__sport آیکیدو
+__label__sport مبارزات سه‌گانه (ASG)
+__label__sport گوجوریو
+__label__sport شوتوکان
+__label__sport تکیون
+__label__sport ساندا
+__label__sport باگوآ
+__label__sport باگوآژانگ
+__label__sport یونگ‌مودو
+__label__sport بوکس
+__label__sport کیوکوشین
+__label__sport کیک بوکسینگ
+__label__sport شوت بوکسینگ
+__label__sport لسوی
+__label__sport پرادال سری
+__label__sport جوجیتسو
+__label__sport جوجیتسو برزیلی
+__label__sport جودو
+__label__sport استریت فایتر
+__label__sport کاراته
+__label__sport کن‌دو
+__label__sport کن
+__label__sport ساواته
+__label__sport هاپکیدو
+__label__sport تانگ سو دو
+__label__sport تای چی چوان
+__label__sport ایی‌آی‌دو
+__label__sport ایی‌آی‌جوتسو
+__label__sport اسکریما
+__label__sport نینجوتسو
+__label__sport تکواندو
+__label__sport سای سن سو
+__label__sport تانگ سو دو
+__label__sport پانکریشن
+__label__sport سامبو
+__label__sport سمبکالاه
+__label__sport سومو
+__label__sport شمشیربازی
+__label__sport کبدی
+__label__sport کشتی
+__label__sport کشتی آزاد
+__label__sport کشتی تسلیمی
+__label__sport کشتی فرنگی
+__label__sport کشتی کج
+__label__sport کشتی آلیش
+__label__sport کشتی مدرسه‌ای
+__label__sport کشتی مغولی
+__label__sport کشتی روغنی
+__label__sport کشتی پهلوانی هند
+__label__sport کشتی ساحلی
+__label__sport کشتی با چوخه
+__label__sport کشتی لوچو
+__label__sport کشتی گیله‌مردی
+__label__sport زوران
+__label__sport کشتی کمربندی
+__label__sport کشتی پهلوانی
+__label__sport کوک سول وان
+__label__sport ووینام
+__label__sport وینگ چون
+__label__sport کونگ فو
+__label__sport موی تای
+__label__sport جیت کان دو
+__label__sport چون کوک دو
+__label__sport یان یوان
+__label__sport کاپوئرا
+__label__sport تریکینگ
+__label__sport کنجوتسو
+__label__sport کاراته سامورایی
+__label__sport شائولین کونگ‌فو
+__label__sport کراس فیت
+__label__sport فول کنتاکت کاراته
+__label__sport هنرهای رزمی ترکیبی
+__label__sport کوراش
+__label__sport ووشو
+__label__sport پنچاک سیلات
+__label__sport سیلات
+__label__sport والی تودو
+__label__sport کاراته دای دو جوکو
+__label__sport ورزش‌های قدرتی
+__label__sport وزنه‌برداری
+__label__sport پاورلیفتینگ
+__label__sport وزنه‌برداری معلولان
+__label__sport بدن‌سازی
+__label__sport بدنسازی نظامی
+__label__sport بوکس
+__label__sport کیک‌بوکسینگ
+__label__sport شوت بوکسینگ
+__label__sport ورزش زورخانه‌ای
+__label__sport کشتی
+__label__sport کشتی آزاد
+__label__sport کشتی فرنگی
+__label__sport کشتی تسلیمی
+__label__sport کشتی مغولی
+__label__sport کوراش
+__label__sport کشتی مدرسه‌ای
+__label__sport کشتی کج
+__label__sport کشتی پهلوانی
+__label__sport کشتی با چوخه
+__label__sport کشتی کردی
+__label__sport کشتی لوچو
+__label__sport کشتی گیله‌مردی
+__label__sport کشتی ساحلی
+__label__sport کشتی روغنی
+__label__sport کشتی پهلوانی هندی
+__label__sport کشتی آلیش
+__label__sport ووشو
+__label__sport ساندا
+__label__sport تالو
+__label__sport طناب‌کشی
+__label__sport چوب کشی
+__label__sport مچ‌اندازی
+__label__sport پرتاب وزنه
+__label__sport پرتاب دیسک
+__label__sport پرتاب چکش
+__label__sport پرتاب نیزه
+__label__sport ورزش چهارگانه
+__label__sport ورزش‌های ماجراجویانه
+__label__sport هوگام
+__label__sport پارکور
+__label__sport چتربازی
+__label__sport پاراگلایدینگ
+__label__sport پروازبا بالن
+__label__sport رقص بریک
+__label__sport بانجی جامپینگ
+__label__sport کایتینگ
+__label__sport پاراموتور
+__label__sport هواپیمای تفریحی
+__label__sport پروازباگلایدر
+__label__sport بادسواری
+__label__sport شیرجه با چتر
+__label__sport بالن سواری
+__label__sport کایت‌سواری
+__label__sport آکروباتیک هوایی
+__label__sport بابسلد
+__label__sport اسکلتون
+__label__sport زورب‌سواری
+__label__sport بادپرسواری
+__label__sport صخره‌نوردی
+__label__sport یخ‌نوردی
+__label__sport غارنوردی
+__label__sport پاراگلایدینگ
+__label__sport رعد
+__label__sport کوهنوردی
+__label__sport غارنوردی
+__label__sport دره‌نوردی
+__label__sport جهت‌یابی
+__label__sport بیابان‌گردی
+__label__sport ورزش‌های الکترونیکی
+__label__sport ورزش‌های سواری
+__label__sport اتومبیل‌رانی
+__label__sport موتورسواری
+__label__sport هوانوردی
+__label__sport قایق‌رانی بادبانی
+__label__sport موتورکراس
+__label__sport کارتینگ
+__label__sport دوچرخه‌سواری
+__label__sport پالیزه (اسکیتینگ)
+__label__sport یخ‌پالیزه (پاتیناژ)
+__label__sport چرخ‌پالیزه
+__label__sport تخته‌پالیزه (اسکیت‌بردینگ)
+__label__sport برف‌پالیزه (اسنوبوردینگ)
+__label__sport آب‌لیزه (پالیزه روی آب)
+__label__sport هاکی روی یخ
+__label__sport هاکی روی چمن
+__label__sport اسکیت‌برد
+__label__sport اسکی
+__label__sport اسکی صحرانوردی
+__label__sport اسکی روی چمن
+__label__sport اسکی پرش
+__label__sport اسکی تلمارک
+__label__sport اسکی آلپاین
+__label__sport ورزش دوگانه
+__label__sport برف‌پالیزه (اسنوبوردینگ)
+__label__sport سورتمه‌سواری
+__label__sport لژسواری
+__label__sport گاوبازی تورئو
+__label__sport گاوبازی رودیو
+__label__sport دوچرخه‌سواری کوهستان
+__label__sport دوچرخه‌سواری جاده
+__label__sport دوچرخه‌سواری پیست
+__label__sport چوگان
+__label__sport چوگان با دوچرخه
+__label__sport چوگان با فیل
+__label__sport چوگان کابویی
+__label__sport چوگان با غژگاو
+__label__sport پالیزه (اسکیتینگ)
+__label__sport تخته‌پالیزه (اسکیت‌بوردینگ)
+__label__sport برف‌پالیزه (اسنوبوردینگ)
+__label__sport آب‌لیزه
+__label__sport اسب سواری
+__label__sport یابوسامه
+__label__sport شتر سواری
+__label__sport پرش با اسب
+__label__sport قایق‌رانی آب‌های آرام
+__label__sport ورزش‌های نشانه‌روی
+__label__sport تیراندازی با تفنگ
+__label__sport تیراندازی با کمان
+__label__sport بولینگ
+__label__sport دارت
+__label__sport پرتاب چاقو
+__label__sport ورزش‌های بیلیاردی
+__label__sport اسنوکر
+__label__sport ایتبال
+__label__sport ناینبال
+__label__sport تیله‌بازی
+__label__sport گردو بازی
+__label__sport دوک بازی
+__label__sport هفت سنگ
+__label__sport گلف
+__label__sport پتانک
+__label__sport بهکاپ (گیت گلف)
+__label__sport " بهکاپ ساحلی "
+__label__sport بهکاپر (تارگت گلف)
+__label__sport پرتاب نیزه
+__label__sport پرتاب وزنه
+__label__sport پرتاب دیسک
+__label__sport پرتاب چکش
+__label__sport فریزبی
+__label__sport ورزش‌های گروهی
+__label__sport فوتبال
+__label__sport پنالتی پشت پا
+__label__sport باسبال
+__label__sport اسلمبال
+__label__sport کستوبال
+__label__sport والیبال
+__label__sport بسکتبال
+__label__sport هندبال
+__label__sport بیسبال
+__label__sport گیتبال
+__label__sport استولبال
+__label__sport بیسبال بریتانیایی
+__label__sport ثروبال
+__label__sport کرفبال
+__label__sport کاماگ
+__label__sport ویرلیبال
+__label__sport کینبال
+__label__sport یوکیگاسن
+__label__sport تمبورلو
+__label__sport بیریبال
+__label__sport ویندبال
+__label__sport برنبال
+__label__sport رولبال
+__label__sport بیریبال
+__label__sport کیکبال
+__label__sport فوتسال
+__label__sport هورسبال
+__label__sport هاکی
+__label__sport هاکی روی میز
+__label__sport بال هاکی
+__label__sport هاکی با یکچرخه
+__label__sport هاکی با چرخ
+__label__sport برومبال
+__label__sport هاکی خیابانی
+__label__sport فلورهاکی
+__label__sport فوتبال خیابانی
+__label__sport بسکتبال ساحلی
+__label__sport فوتبال کالجی
+__label__sport راگبی ساحلی
+__label__sport گلروبال
+__label__sport باکس لاکراس
+__label__sport پولوکراس
+__label__sport هورلینگ
+__label__sport کریکت فرانسوی
+__label__sport اوینا
+__label__sport ویگورو
+__label__sport باتااوشی
+__label__sport راندرز
+__label__sport پساپالو
+__label__sport پاتو
+__label__sport خوخو
+__label__sport شینتی
+__label__sport شینتی هورلینگ
+__label__sport فوتوالی
+__label__sport رولر دربی
+__label__sport آور لاین
+__label__sport گلبال
+__label__sport توربال
+__label__sport بوچیا
+__label__sport شودان
+__label__sport فلوربال
+__label__sport فیستبال
+__label__sport راگبی
+__label__sport راگبی با ویلچر
+__label__sport راگبی تگ
+__label__sport فوتبال کانادایی
+__label__sport فوتبال استرالیایی
+__label__sport فوتبال اسپرینت
+__label__sport شمشیربازی با ویلچر
+__label__sport کبدی
+__label__sport واترپلو
+__label__sport واترپلو ساحلی
+__label__sport فوتبال پنج‌نفره
+__label__sport فوتبال  نفره
+__label__sport فوتبال  نفره
+__label__sport فوتبال  نفره
+__label__sport فوتبال معلولان
+__label__sport اولینا
+__label__sport کاموگی
+__label__sport روکه
+__label__sport جیانزی
+__label__sport گوجو
+__label__sport کبدی با یک پا
+__label__sport هندبال روی چمن
+__label__sport هندبال چکی
+__label__sport هندبال فریسکی
+__label__sport چوبازی
+__label__sport کوئیدیچ
+__label__sport هاکی روی یخ
+__label__sport اسکیت هاکی
+__label__sport هاکی سالنی
+__label__sport هاکی روی چمن
+__label__sport پینت‌بال
+__label__sport فوتبال دستی
+__label__sport آمادگی جسمانی
+__label__sport لاکراس
+__label__sport چلیح آغاجی
+__label__sport پیلاتس
+__label__sport باندی
+__label__sport رینگت
+__label__sport فوتبال ساحلی
+__label__sport والیبال ساحلی
+__label__sport والیبال نشسته
+__label__sport بسکتبال با ویلچر
+__label__sport بسکتبال  نفره
+__label__sport بسکتبال در آب
+__label__sport فوتبال گیلیک
+__label__sport فوتبال گریدیرون
+__label__sport فوتبال تنیس
+__label__sport سپک تاکرا
+__label__sport کروکت
+__label__sport کرلینگ
+__label__sport کریکت
+__label__sport چوگان
+__label__sport تنت پگینگ
+__label__sport بزکشی
+__label__sport اسپینینگ
+__label__sport پیلوتای باسکی
+__label__sport وسطی
+__label__sport هندبال ساحلی
+__label__sport سافت‌بال
+__label__sport پنج‌گانه مدرن
+__label__sport نتبال
+__label__sport وودبال
+__label__sport چوگو
+__label__sport لانگبال دانمارکی
+__label__sport جای آلای
+__label__sport ورزش‌های راکتی
+__label__sport تنیس
+__label__sport تنیس روی میز
+__label__sport فرون‌تنیس
+__label__sport سافت‌تنیس
+__label__sport بدمینتون
+__label__sport بال بدمینتون
+__label__sport هدیس
+__label__sport پدبال
+__label__sport پدل
+__label__sport اسکواش
+__label__sport راکت‌بال
+__label__sport پیلوتای باسکی
+__label__sport زیر
+__label__sport لاپتا
+__label__sport پتاکا
+__label__sport ورزش‌های فکری
+__label__sport شطرنج
+__label__sport شطرنج چینی
+__label__sport شطرنج ایرانی
+__label__sport منچ
+__label__sport پوکر
+__label__sport ورق (پاسور)
+__label__sport دومینو
+__label__sport تخته نرد
+__label__sport تانگو
+__label__sport چکرز
+__label__sport گو
+__label__sport ماژونگ
+__label__sport مار و پله
+__label__sport شوگی
+__label__sport کروم بورد
+__label__sport چاتورانگا
+__label__sport سینیت
+__label__sport ورزش‌های ساحلی
+__label__sport فوتبال ساحلی
+__label__sport بسکتبال ساحلی
+__label__sport هندبال ساحلی
+__label__sport والیبال ساحلی
+__label__sport کبدی ساحلی
+__label__sport کشتی ساحلی
+__label__sport واترپلو ساحلی
+__label__sport راگبی ساحلی
+__label__sport تنیس ساحلی
+__label__sport ورزش‌های آبی
+__label__sport شنا
+__label__sport واترپلو
+__label__sport شیرجه
+__label__sport غواصی
+__label__sport قایقرانی
+__label__sport موج‌خوابی
+__label__sport موج‌سواری
+__label__sport اسکی روی آب
+__label__sport ماهی‌گیری
+__label__sport شنای موزون
+__label__sport سینکرنایز
+__label__sport پاراسیلینگ
+__label__sport قایق‌رانی بادبانی
+__label__sport کانوپولو
+__label__sport روئینگ
+__label__sport دراگون بوت
+__label__sport پدل برد
+__label__sport هاکی زیر آب
+__label__sport هاکی روی یخ زیر آب
+__label__sport فوتبال زیرآب
+__label__sport تنیس زیر آب
+__label__sport راگبی زیرآب

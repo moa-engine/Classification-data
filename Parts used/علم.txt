@@ -1,0 +1,161 @@
+__label__financial Bitcoin
+__label__financial Ethereum
+__label__financial Binance Coin
+__label__financial Cardano
+__label__financial Solana
+__label__financial XRP
+__label__financial Polkadot
+__label__financial Dogecoin
+__label__financial Avalanche
+__label__financial Terra
+__label__financial Chainlink
+__label__financial Litecoin
+__label__financial Algorand
+__label__financial Shiba Inu
+__label__financial Bitcoin Cash
+__label__financial Stellar
+__label__financial VeChain
+__label__financial Cosmos
+__label__financial TRON
+__label__financial Monero
+__label__financial Filecoin
+__label__financial Tezos
+__label__financial EOS
+__label__financial FTX Token
+__label__financial Uniswap
+__label__financial Aave
+__label__financial Ethereum Classic
+__label__financial Theta Network
+__label__financial The Sandbox
+__label__financial BitTorrent
+__label__financial Decentraland
+__label__financial IOTA
+__label__financial Fantom
+__label__financial Hedera Hashgraph
+__label__financial Polygon
+__label__financial Klaytn
+__label__financial Zcash
+__label__financial SushiSwap
+__label__financial NEO
+__label__financial Elrond
+__label__financial Maker
+__label__financial Bitcoin SV
+__label__financial Dash
+__label__financial Waves
+__label__financial Yearn.finance
+__label__financial Huobi Token
+__label__financial Chiliz
+__label__financial Synthetix
+__label__financial 0x
+__label__financial Quant
+__label__financial Celsius
+__label__financial PancakeSwap
+__label__financial Decred
+__label__financial Compound
+__label__financial Harmony
+__label__financial Ren
+__label__financial OMG Network
+__label__financial Ontology
+__label__financial Reserve Rights
+__label__financial Axie Infinity
+__label__financial KuCoin Token
+__label__financial ICON
+__label__financial Basic Attention Token
+__label__financial Loopring
+__label__financial Curve DAO Token
+__label__financial Flow
+__label__financial Arweave
+__label__financial Qtum
+__label__financial Serum
+__label__financial Nexo
+__label__financial Holo
+__label__financial Siacoin
+__label__financial Bitcoin Gold
+__label__financial Ankr
+__label__financial Energy Web Token
+__label__financial Secret
+__label__financial TrueUSD
+__label__financial Stacks
+__label__financial RenBTC
+__label__financial Kusama
+__label__financial Bitcoin Diamond
+__label__financial Near Protocol
+__label__financial Reserve
+__label__financial SwissBorg
+__label__financial TerraUSD
+__label__financial Nervos Network
+__label__financial Bancor
+__label__financial Helium
+__label__financial Celo
+__label__financial Aragon
+__label__financial Injective Protocol
+__label__financial NEM
+__label__financial Golem
+__label__financial Band Protocol
+__label__financial 1inch
+__label__financial Perpetual Protocol
+__label__financial BakeryToken
+__label__financial Raydium
+__label__financial Reef Finance
+__label__financial UMA
+__label__financial Augur
+__label__financial Ocean Protocol
+__label__financial Livepeer
+__label__financial Apple (AAPL)
+__label__financial Amazon (AMZN)
+__label__financial Alphabet (GOOGL)
+__label__financial Meta Platforms (META)
+__label__financial Microsoft (MSFT)
+__label__financial Tesla (TSLA)
+__label__financial Facebook (FB)
+__label__financial Nvidia (NVDA)
+__label__financial Berkshire Hathaway (BRK.A)
+__label__financial Alibaba (BABA)
+__label__financial Tencent Holdings (TCEHY)
+__label__financial Visa (V)
+__label__financial JPMorgan Chase (JPM)
+__label__financial Johnson & Johnson (JNJ)
+__label__financial Procter & Gamble (PG)
+__label__financial Bank of America (BAC)
+__label__financial Pfizer (PFE)
+__label__financial Coca-Cola (KO)
+__label__financial Home Depot (HD)
+__label__financial Walt Disney (DIS)
+__label__financial Mastercard (MA)
+__label__financial Walmart (WMT)
+__label__financial Netflix (NFLX)
+__label__financial Adobe (ADBE)
+__label__financial PayPal (PYPL)
+__label__financial Salesforce (CRM)
+__label__financial McDonald's (MCD)
+__label__financial IBM (IBM)
+__label__financial Exxon Mobil (XOM)
+__label__financial Chevron (CVX)
+__label__financial AT&T (T)
+__label__financial Intel (INTC)
+__label__financial Cisco Systems (CSCO)
+__label__financial General Electric (GE)
+__label__financial Boeing (BA)
+__label__financial Oracle (ORCL)
+__label__financial Verizon Communications (VZ)
+__label__financial 3M (MMM)
+__label__financial Caterpillar (CAT)
+__label__financial وصنعت
+__label__financial خودرو
+__label__financial شپنا
+__label__financial فملی
+__label__financial خودکفایی
+__label__financial وتوس
+__label__financial دتهران
+__label__financial وبملت
+__label__financial اعتماد
+__label__financial فجر
+__label__financial اپرداز
+__label__financial وبشهر
+__label__financial خساپا
+__label__financial خزامیا
+__label__financial فاراک
+__label__financial امیل
+__label__financial پالایش
+__label__financial کهمدا
+__label__financial کترام

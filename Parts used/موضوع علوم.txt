@@ -1,0 +1,180 @@
+Psychology
+physics
+chemistry
+biology
+Mathematics
+Computer science
+Engineering
+Materials Science
+Information and data science
+Earth sciences
+Philosophy of Science
+social science
+Nano technology
+Environmental science
+optical science
+economics
+Mobile science
+The science of morphology
+Human science
+Robotics science
+Psychology
+Life science and biology
+Architectural science
+music science
+Media science
+Agricultural science
+Climatic science and meteorology
+Energy science
+history
+The science of geography
+The science of magnetism
+The science of side effects
+The science of analysis
+Bioinformatics science
+Software science
+Heat transfer science
+The science of thermodynamics
+Mechanical science
+Control science and control engineering
+Polymer science
+Color science
+Medical diagnosis
+Material engineering science
+Science of nanomaterials
+The science of quantum computing
+Brain and neuroscience
+Genetics
+Neuroscience
+The science of artificial intelligence
+Machine vision science
+Statistics
+Probability science
+Cryptography
+Information security science
+Science and technology policy science
+The science of game theory
+The science of cloud computing
+Computer graphics science
+Database science
+Internet of things science
+Medical robotics
+Neurotechnology science
+Medical make-up science
+Physiology
+Biophysical science
+Science of nanobiotechnology
+The science of organizational culture
+Information technology management science
+Information systems science
+Communication science
+Leadership and management science
+The science of electronic education
+The science of social networks
+Organizational psychology
+The science of group cohesion
+The science of group decision making
+Science of process engineering
+Productivity science
+Science of industrial policy
+Financial engineering science
+Transportation science
+Science of supply chain management
+Health economics
+Economics of natural resources
+Environmental science
+Regional economics
+The science of economic development
+Behavioral economics
+The science of consumer behavior analysis
+Project management science
+روانشناسی
+فیزیک
+شیمی
+زیست‌شناسی
+ریاضیات
+علوم کامپیوتری
+مهندسی
+علم مواد
+علم اطلاعات و داده‌ها
+علوم زمین
+فلسفه علم
+علم اجتماعی
+نانوتکنولوژی
+علم محیطی
+علم نوری
+علم اقتصاد
+علم موبایل
+علم ریخت‌شناسی
+علم انسانی
+علم رباتیک
+علم روان‌شناسی
+علم حیات و زیست‌شناسی
+علم معماری
+علم موسیقی
+علم رسانه‌ها
+علم کشاورزی
+علم اقلیمی و هواشناسی
+علم انرژی
+علم تاریخ
+علم جغرافیا
+علم مغناطیس
+علم اثرات جانبی
+علم تجزیه و تحلیل
+علم بیوانفورماتیکس
+علم نرم‌افزار
+علم انتقال حرارت
+علم ترمودینامیک
+علم مکانیک
+علم کنترل و مهندسی کنترل
+علم پلیمر
+علم رنگ‌شناسی
+علم تشخیص پزشکی
+علم مهندسی مواد
+علم نانومواد
+علم محاسبات کوانتومی
+علم مغز و عصب
+علم ژنتیک
+علم نوروساینس
+علم هوش مصنوعی
+علم ماشین بینایی
+علم آمار
+علم احتمالات
+علم رمزنگاری
+علم امنیت اطلاعات
+علم سیاستگذاری علم و فناوری
+علم نظریه بازی‌ها
+علم محاسبات ابری
+علم گرافیک رایانه‌ای
+علم پایگاه داده
+علم اینترنت اشیاء
+علم روباتیک پزشکی
+علم نوروتکنولوژی
+علم آرایش پزشکی
+علم فیزیولوژی
+علم بیوفیزیک
+علم نانوبیوتکنولوژی
+علم فرهنگ سازمانی
+علم مدیریت فناوری اطلاعات
+علم سیستم‌های اطلاعاتی
+علم ارتباطات
+علم رهبری و مدیریت
+علم آموزش الکترونیکی
+علم شبکه‌های اجتماعی
+علم روان‌شناسی سازمانی
+علم انسجام گروهی
+علم تصمیم‌گیری گروهی
+علم مهندسی فرایند
+علم بهره‌وری
+علم سیاست صنعتی
+علم مهندسی مالی
+علم حمل و نقل
+علم مدیریت زنجیره تأمین
+علم اقتصاد سلامت
+علم اقتصاد منابع طبیعی
+علم محیط زیست
+علم اقتصاد منطقه‌ای
+علم توسعه اقتصادی
+علم اقتصاد رفتاری
+علم تحلیل رفتار مصرف‌کننده
+علم مدیریت پروژه

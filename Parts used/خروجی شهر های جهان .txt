@@ -1,0 +1,549 @@
+منات آذربایجان
+AZN
+₼
+افغانی
+AFN
+؋
+درام
+AMD
+դր
+درهم
+AED
+د.إ
+دینار اردن
+JOD
+د.ا
+ریال ایران
+IRR
+﷼
+تاکا
+BDT
+৳
+نگولتروم
+BTN
+Nu.
+دلار برونئی
+BND
+رییل
+KHR
+៛
+یوآن
+CNY
+¥
+پوند قبرس
+CYP
+£
+لاری
+GEL
+ლ
+روپیه هند
+INR
+₹
+روپیه اندونزی
+IDR
+Rp
+دینار عراق
+IQD
+ع.د
+ژاپن
+ین
+JPY
+¥
+تنگه
+KZT
+лв
+دینار کویت
+KWD
+د.ک
+سوم
+KGS
+лв
+کیپ
+LAK
+₭
+پوند لبنان
+LBP
+£
+رینگت
+MYR
+RM
+روفیه
+MVR
+Rf
+توگریک مغولی
+MNT
+₮
+کیات
+MMK
+K
+روپیه نپال
+NPR
+₨
+وون
+KPW
+₩
+ریال عمان
+OMR
+﷼
+روپیه پاکستان
+PKR
+₨
+دینار اردن
+JOD
+د.ا
+پزو
+PHP
+₱
+ریال قطر
+QAR
+﷼
+روبل روسیه
+RUB
+₽
+ریال
+SAR
+﷼
+دلار سنگاپور
+SGD
+جنوبی
+وون
+KRW
+₩
+روپیه
+LKR
+₨
+لیره
+SYP
+£
+دلار جدید تایوان
+TWD
+NT$
+سامانی
+TJS
+ЅM
+بات
+THB
+฿
+دلار امریکا
+USD
+لیره
+TRY
+₺
+منات ترکمنستان
+TMM
+T
+سُم
+UZS
+лв
+دانگ
+VND
+₫
+ریال یمن
+YER
+﷼
+دینار الجزایر
+DZD
+دج
+کوانزا
+AOA
+Kz
+سی‌اف‌ای آفریقای غربی
+XOF
+CFA
+پولا
+BWP
+P
+فرانک سی‌اف‌ای آفریقای غربی
+XOF
+CFA
+فرانک بروندی
+BIF
+FBu
+اسکودو
+CVE
+$
+فرانک سی‌اف‌ای آفریقای مرکزی
+XAF
+FCFA
+فرانک کُمُر
+KMF
+CF
+فرانک کنگو
+CDF
+FC
+فرانک سی‌اف‌ای آفریقای غربی
+XOF
+CFA
+فرانک جیبوتی
+DJF
+Fdj
+پوند مصر
+EGP
+£
+فرانک سی‌اف‌ای آفریقای مرکزی
+XAF
+FCFA
+ناکفای اریتره
+ERN
+ናቕፋ
+بیر
+ETB
+ብር
+دالاسی
+GMD
+D
+سدی
+GHC
+GH₵
+فرانک گینه
+GNF
+FG
+شیلینگ کنیا
+KES
+KSh,
+لوتی
+LSL
+L
+دلار لیبریا
+LRD
+دینار لیبی
+LYD
+ل.د
+آریاری مالاگاسی
+MGA
+Ar
+کواچا مالاوی
+MWK
+MK
+اوگوئیای
+MRO
+UM
+روپیه موریس
+MUR
+₨
+درهم مراکش
+MAD
+DH
+متیکال
+MZN
+MT
+دلار نامیبیا
+NAD
+نایرا
+NGN
+₦
+فرانک رواندا
+RWF
+FRw
+پرینسیپ
+دُبرا
+STD
+Db
+روپیه سیشل
+SCR
+₨
+لئون
+SLL
+Le
+شیلینگ سومالی
+SOS
+S
+راند
+ZAR
+R
+پوند سودان جنوبی
+SSP
+£
+لیلانگنی
+SZL
+E
+شیلینگ تانزانیا
+TZS
+TSh
+دینار تونس
+TND
+د.ت
+شیلینگ اوگاندا
+UGX
+USh
+کواچای زامبیا
+ZMK
+ZK
+دلار زیمبابوه
+ZWD
+$
+لک
+ALL
+Lek
+روبل بلاروس
+BYR
+Br
+مارک تبدیل پذیر
+BAM
+KM
+لف
+BGN
+лв
+کونای
+HRK
+kn
+
+پوند قبرس
+CYP
+£
+کرون
+DKK
+kr.
+کرون
+EEK
+لاری
+GEL
+ლ
+
+فورینت
+HUF
+Ft
+کرونا
+ISK
+kr
+تنگه
+KZT
+лв
+یورو
+EUR
+لاتس
+LVL
+Ls
+فرانک سوئیس
+CHF
+CHF
+لیتاس
+LTL
+Lt
+یورو
+EUR
+دینار
+MKD
+ден
+لیره
+MTL
+₤
+لئو
+MDL
+L
+یورو
+EUR
+کرون
+NOK
+kr
+زلوتی
+PLN
+zł
+یورو
+EUR
+لئو
+RON
+lei
+روبل
+RUB
+₽
+یورو
+EUR
+دینار صربستان
+RSD
+Дин.
+کرونا
+SKK
+Sk
+یورو
+EUR
+یورو
+EUR
+کرون
+SEK
+kr
+فرانک سوئیس
+CHF
+CHF
+لیره ترکیه
+TRY
+₺
+هریونیا
+UAH
+₴
+پوند استرلینگ
+GBP
+£
+یورو
+EUR
+€
+دلار کارائیب شرقی
+XCD
+دلار باهاماس
+BSD
+دلار باربادوس
+BBD
+دلار بلیز
+BZD
+دلار کانادا
+CAD
+کولون
+CRC
+₡
+پزوی کوبا
+CUC
+دلار کارائیب شرقی
+XCD
+پزو دومینیکن
+DOP
+RD$
+دلار ایالات متحده
+USD
+دلار کارائیب شرقی
+XCD
+کتزال
+GTQ
+Q
+گورد
+HTG
+G
+لمپیرا
+HNL
+L
+دلار جامائیکا
+JMD
+J$
+پزو مکزیک
+MXN
+کوردوبا
+NIO
+C$
+یالبوا
+PAB
+B/.
+دلار کارائیب شرقی
+XCD
+
+دلار ترینیداد و توباگو
+TTD
+TT$
+پزو آرژانتین
+ARS
+بولیویانو
+BOB
+$b
+رئال
+BRL
+R$
+پزو شیلی
+CLP
+پزو کلمبیا
+COP
+دلار ایالات متحده
+USD
+دلار گیانا
+GYD
+گوارانی
+PYG
+Gs
+نوئوو سول
+PEN
+S/.
+دلار سورینام
+SRD
+پزو اوروگوئه
+UYU
+$U
+بولیوار
+VEF
+Bs
+دلار استرالیا
+AUD
+دلار فیجی
+FJD
+دلار استرالیا
+AUD
+دلار ایالات متحده
+USD
+دلار ایالات متحده
+USD
+$
+دلار استرالیا
+AUD
+دلار نیوزلند
+NZD
+دلار ایالات متحده
+USD
+کینا
+PGK
+K
+تالا
+WST
+WS$
+دلار جزایر سلیمان
+SBD
+پاآنگا
+TOP
+T$
+دلار استرالیا
+AUD
+Egyptian Pound
+Israeli New Shekel
+Philippine Peso
+Pakistani Rupee
+Bangladeshi Taka
+Nigerian Naira
+Kenyan Shilling
+Ghanaian Cedi
+Ethiopian Birr
+Tanzanian Shilling
+Rwandan Franc
+Ugandan Shilling
+Kuwaiti Dinar
+Bahraini Dinar
+Omani Rial
+Qatari Riyal
+Jordanian Dinar
+Lebanese Pound
+Iraqi Dinar
+Iranian Rial
+Vietnamese Dong
+Kazakhstani Tenge
+Uzbekistani Som
+Azerbaijani Manat
+Georgian Lari
+Ukrainian Hryvnia
+Belarusian Ruble
+Moldovan Leu
+Croatian Kuna
+Serbian Dinar
+United States Dollar
+Euro
+Japanese Yen
+British Pound Sterling
+Swiss Franc
+Canadian Dollar
+Australian Dollar
+Chinese Yuan
+Indian Rupee
+Brazilian Real
+Russian Ruble
+South Korean Won
+Mexican Peso
+South African Rand
+Hong Kong Dollar
+Singapore Dollar
+New Zealand Dollar
+Turkish Lira
+Swedish Krona
+Norwegian Krone
+Polish Zloty
+Danish Krone
+Thai Baht
+Indonesian Rupiah
+Malaysian Ringgit
+Saudi Riyal
+United Arab Emirates Dirham
+Argentine Peso
+Chilean Peso
+Colombian Peso
